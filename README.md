@@ -49,7 +49,7 @@ To run the simulation:
 3. Run the following command:
 
 ```sh
-go run main.go
+go run .
 ```
 
 This will simulate API calls, build Merkle trees, and detect any breaking changes in the API responses.
