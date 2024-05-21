@@ -1,6 +1,4 @@
-Here's a `README.md` for a repository that houses the Merkle tree implementation and API change detection simulation:
 
-```markdown
 # Merkle Tree API Change Detector
 
 This repository contains a simple Go implementation of Merkle trees and a simulation to detect API breaking changes using Merkle trees. Inspired by [ApiToolKit](https://apitoolkit.io/) by [Anthony Alaribe](https://x.com/tonialaribe), this project demonstrates how Merkle trees can be used to efficiently and securely verify data integrity and detect changes in API responses.
